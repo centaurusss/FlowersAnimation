@@ -1,7 +1,7 @@
 # Flowers Animation
 
 ## Description
-An interactive **flower animation** built with **HTML, CSS, and JavaScript**.  
+An interactive **flowers animation** built with **HTML, CSS, and JavaScript**.  
 When opened, users see a glowing **neon intro screen** with *HELLO THERE* and a **CLICK HERE** button. Once clicked, the intro fades away and reveals a **beautiful flower animation** with glowing lights and growing grass.  
 
 ## Features
