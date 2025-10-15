@@ -1,4 +1,4 @@
-# HELLO THERE • Flowers Animation
+# Flowers Animation
 
 ## Description
 An interactive **flower animation** built with **HTML, CSS, and JavaScript**.  
